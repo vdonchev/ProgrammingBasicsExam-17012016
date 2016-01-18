@@ -5,8 +5,7 @@
     public static class Program
     {
         private const double Оvercharge = 1.25;
-
-
+        
         public static void Main()
         {
             Console.WriteLine();

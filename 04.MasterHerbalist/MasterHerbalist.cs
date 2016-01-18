@@ -36,7 +36,7 @@
                 command = Console.ReadLine();
             }
 
-            var dailyTotalIncome = (double) totalIncome / daysPassed;
+            var dailyTotalIncome = (double)totalIncome / daysPassed;
 
             if (dailyTotalIncome >= dailyExpenses)
             {

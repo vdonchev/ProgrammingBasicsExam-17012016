@@ -11,7 +11,7 @@
         public static void Main()
         {
             var reservedBeers = long.Parse(Console.ReadLine());
-            var totalBeers = 0l;
+            var totalBeers = 0L;
 
             var command = Console.ReadLine();
             while (command != "Exam Over")
